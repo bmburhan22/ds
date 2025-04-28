@@ -1,0 +1,503 @@
+Assignment 1
+Assignment 2
+Assignment 3
+Assignment 4
+Assignment 5
+Assignment 6
+Assignment 7
+LICENSE
+README.md
+files.txt
+
+./Assignment 1:
+Client.java
+Server.java
+ServerImpl.java
+ServerIntf.java
+
+./Assignment 2:
+ReverseClient.java
+ReverseModule.idl
+ReverseServer.java
+Reverseimpl.java
+commands.txt
+
+./Assignment 3:
+Assignment3.c
+Zip files
+guide.txt
+
+./Assignment 3/Zip files:
+openmpi-4.1.4.tar.bz2
+opt.zip
+
+./Assignment 4:
+client.py
+server.py
+
+./Assignment 5:
+TokenRing.class
+TokenRing.java
+
+./Assignment 6:
+BullyAlgoExample.class
+BullyAlgoExample.java
+RingAlgorithm.class
+RingAlgorithm.java
+RingProcess.class
+
+./Assignment 7:
+Arithmatic Operation
+Signup
+guide 7.txt
+
+./Assignment 7/Arithmatic Operation:
+Assgn_7
+CalculatorWebService_Client
+
+./Assignment 7/Arithmatic Operation/Assgn_7:
+build
+build.xml
+nbproject
+src
+web
+
+./Assignment 7/Arithmatic Operation/Assgn_7/build:
+web
+
+./Assignment 7/Arithmatic Operation/Assgn_7/build/web:
+META-INF
+WEB-INF
+index.html
+
+./Assignment 7/Arithmatic Operation/Assgn_7/build/web/META-INF:
+MANIFEST.MF
+
+./Assignment 7/Arithmatic Operation/Assgn_7/build/web/WEB-INF:
+web.xml
+
+./Assignment 7/Arithmatic Operation/Assgn_7/nbproject:
+ant-deploy.xml
+build-impl.xml
+genfiles.properties
+jax-ws.xml
+jaxws-build.xml
+private
+project.properties
+project.xml
+
+./Assignment 7/Arithmatic Operation/Assgn_7/nbproject/private:
+private.properties
+private.xml
+
+./Assignment 7/Arithmatic Operation/Assgn_7/src:
+conf
+java
+
+./Assignment 7/Arithmatic Operation/Assgn_7/src/conf:
+MANIFEST.MF
+
+./Assignment 7/Arithmatic Operation/Assgn_7/src/java:
+com
+
+./Assignment 7/Arithmatic Operation/Assgn_7/src/java/com:
+myservice
+
+./Assignment 7/Arithmatic Operation/Assgn_7/src/java/com/myservice:
+mycalcualtor.java
+
+./Assignment 7/Arithmatic Operation/Assgn_7/web:
+WEB-INF
+index.html
+
+./Assignment 7/Arithmatic Operation/Assgn_7/web/WEB-INF:
+web.xml
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client:
+build
+build.xml
+catalog.xml
+dist
+nbproject
+src
+web
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build:
+generated
+generated-sources
+web
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated:
+jax-wsCache
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated/jax-wsCache:
+MycalculatorWebService
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated/jax-wsCache/MycalculatorWebService:
+com
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated/jax-wsCache/MycalculatorWebService/com:
+myservice
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated/jax-wsCache/MycalculatorWebService/com/myservice:
+Addition.java
+AdditionResponse.java
+MycalculatorWebService.java
+MycalculatorWebService_Service.java
+ObjectFactory.java
+package-info.java
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated-sources:
+jax-ws
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated-sources/jax-ws:
+com
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated-sources/jax-ws/com:
+myservice
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/generated-sources/jax-ws/com/myservice:
+Addition.java
+AdditionResponse.java
+MycalculatorWebService.java
+MycalculatorWebService_Service.java
+ObjectFactory.java
+package-info.java
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web:
+META-INF
+WEB-INF
+index.html
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web/META-INF:
+MANIFEST.MF
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web/WEB-INF:
+classes
+glassfish-web.xml
+jax-ws-catalog.xml
+web.xml
+wsdl
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web/WEB-INF/classes:
+CalculatorServlet.class
+com
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web/WEB-INF/classes/com:
+myservice
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web/WEB-INF/classes/com/myservice:
+Addition.class
+AdditionResponse.class
+MycalculatorWebService.class
+MycalculatorWebService_Service.class
+ObjectFactory.class
+package-info.class
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web/WEB-INF/wsdl:
+localhost_8080
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web/WEB-INF/wsdl/localhost_8080:
+Assgn_7
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/build/web/WEB-INF/wsdl/localhost_8080/Assgn_7:
+MycalculatorWebService.wsdl
+MycalculatorWebService.xsd_1.xsd
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/dist:
+CalculatorWebService_Client.war
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/nbproject:
+ant-deploy.xml
+build-impl.xml
+genfiles.properties
+jax-ws.xml
+jaxws-build.xml
+private
+project.properties
+project.xml
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/nbproject/private:
+private.properties
+private.xml
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src:
+conf
+java
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src/conf:
+MANIFEST.MF
+xml-resources
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src/conf/xml-resources:
+web-service-references
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src/conf/xml-resources/web-service-references:
+MycalculatorWebService
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src/conf/xml-resources/web-service-references/MycalculatorWebService:
+wsdl
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src/conf/xml-resources/web-service-references/MycalculatorWebService/wsdl:
+localhost_8080
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src/conf/xml-resources/web-service-references/MycalculatorWebService/wsdl/localhost_8080:
+Assgn_7
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src/conf/xml-resources/web-service-references/MycalculatorWebService/wsdl/localhost_8080/Assgn_7:
+MycalculatorWebService.wsdl
+MycalculatorWebService.xsd_1.xsd
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/src/java:
+CalculatorServlet.java
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/web:
+WEB-INF
+index.html
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/web/WEB-INF:
+jax-ws-catalog.xml
+web.xml
+wsdl
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/web/WEB-INF/wsdl:
+localhost_8080
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/web/WEB-INF/wsdl/localhost_8080:
+Assgn_7
+
+./Assignment 7/Arithmatic Operation/CalculatorWebService_Client/web/WEB-INF/wsdl/localhost_8080/Assgn_7:
+MycalculatorWebService.wsdl
+MycalculatorWebService.xsd_1.xsd
+
+./Assignment 7/Signup:
+assgn_signup
+client_signup
+
+./Assignment 7/Signup/assgn_signup:
+build
+build.xml
+dist
+nbproject
+src
+web
+
+./Assignment 7/Signup/assgn_signup/build:
+web
+
+./Assignment 7/Signup/assgn_signup/build/web:
+META-INF
+WEB-INF
+index.html
+
+./Assignment 7/Signup/assgn_signup/build/web/META-INF:
+MANIFEST.MF
+
+./Assignment 7/Signup/assgn_signup/build/web/WEB-INF:
+classes
+glassfish-web.xml
+web.xml
+
+./Assignment 7/Signup/assgn_signup/build/web/WEB-INF/classes:
+com
+
+./Assignment 7/Signup/assgn_signup/build/web/WEB-INF/classes/com:
+mysignuppage
+
+./Assignment 7/Signup/assgn_signup/build/web/WEB-INF/classes/com/mysignuppage:
+signupWebService.class
+
+./Assignment 7/Signup/assgn_signup/dist:
+assgn_signup.war
+
+./Assignment 7/Signup/assgn_signup/nbproject:
+ant-deploy.xml
+build-impl.xml
+genfiles.properties
+jax-ws.xml
+jaxws-build.xml
+private
+project.properties
+project.xml
+
+./Assignment 7/Signup/assgn_signup/nbproject/private:
+private.properties
+
+./Assignment 7/Signup/assgn_signup/src:
+conf
+java
+
+./Assignment 7/Signup/assgn_signup/src/conf:
+MANIFEST.MF
+
+./Assignment 7/Signup/assgn_signup/src/java:
+com
+
+./Assignment 7/Signup/assgn_signup/src/java/com:
+mysignuppage
+
+./Assignment 7/Signup/assgn_signup/src/java/com/mysignuppage:
+signupWebService.java
+
+./Assignment 7/Signup/assgn_signup/web:
+WEB-INF
+index.html
+
+./Assignment 7/Signup/assgn_signup/web/WEB-INF:
+web.xml
+
+./Assignment 7/Signup/client_signup:
+build
+build.xml
+catalog.xml
+dist
+nbproject
+src
+web
+
+./Assignment 7/Signup/client_signup/build:
+generated
+generated-sources
+web
+
+./Assignment 7/Signup/client_signup/build/generated:
+jax-wsCache
+
+./Assignment 7/Signup/client_signup/build/generated/jax-wsCache:
+signupWebService
+
+./Assignment 7/Signup/client_signup/build/generated/jax-wsCache/signupWebService:
+com
+
+./Assignment 7/Signup/client_signup/build/generated/jax-wsCache/signupWebService/com:
+mysignuppage
+
+./Assignment 7/Signup/client_signup/build/generated/jax-wsCache/signupWebService/com/mysignuppage:
+Mysignup.java
+MysignupResponse.java
+ObjectFactory.java
+SignupWebService.java
+SignupWebService_Service.java
+package-info.java
+
+./Assignment 7/Signup/client_signup/build/generated-sources:
+jax-ws
+
+./Assignment 7/Signup/client_signup/build/generated-sources/jax-ws:
+com
+
+./Assignment 7/Signup/client_signup/build/generated-sources/jax-ws/com:
+mysignuppage
+
+./Assignment 7/Signup/client_signup/build/generated-sources/jax-ws/com/mysignuppage:
+Mysignup.java
+MysignupResponse.java
+ObjectFactory.java
+SignupWebService.java
+SignupWebService_Service.java
+package-info.java
+
+./Assignment 7/Signup/client_signup/build/web:
+META-INF
+WEB-INF
+index.html
+
+./Assignment 7/Signup/client_signup/build/web/META-INF:
+MANIFEST.MF
+
+./Assignment 7/Signup/client_signup/build/web/WEB-INF:
+classes
+glassfish-web.xml
+jax-ws-catalog.xml
+web.xml
+wsdl
+
+./Assignment 7/Signup/client_signup/build/web/WEB-INF/classes:
+com
+signupservlet.class
+
+./Assignment 7/Signup/client_signup/build/web/WEB-INF/classes/com:
+mysignuppage
+
+./Assignment 7/Signup/client_signup/build/web/WEB-INF/classes/com/mysignuppage:
+Mysignup.class
+MysignupResponse.class
+ObjectFactory.class
+SignupWebService.class
+SignupWebService_Service.class
+package-info.class
+
+./Assignment 7/Signup/client_signup/build/web/WEB-INF/wsdl:
+localhost_8080
+
+./Assignment 7/Signup/client_signup/build/web/WEB-INF/wsdl/localhost_8080:
+assgn_signup
+
+./Assignment 7/Signup/client_signup/build/web/WEB-INF/wsdl/localhost_8080/assgn_signup:
+signupWebService.wsdl
+signupWebService.xsd_1.xsd
+
+./Assignment 7/Signup/client_signup/dist:
+client_signup.war
+
+./Assignment 7/Signup/client_signup/nbproject:
+ant-deploy.xml
+build-impl.xml
+genfiles.properties
+jax-ws.xml
+jaxws-build.xml
+private
+project.properties
+project.xml
+
+./Assignment 7/Signup/client_signup/nbproject/private:
+private.properties
+
+./Assignment 7/Signup/client_signup/src:
+conf
+java
+
+./Assignment 7/Signup/client_signup/src/conf:
+MANIFEST.MF
+xml-resources
+
+./Assignment 7/Signup/client_signup/src/conf/xml-resources:
+web-service-references
+
+./Assignment 7/Signup/client_signup/src/conf/xml-resources/web-service-references:
+signupWebService
+
+./Assignment 7/Signup/client_signup/src/conf/xml-resources/web-service-references/signupWebService:
+wsdl
+
+./Assignment 7/Signup/client_signup/src/conf/xml-resources/web-service-references/signupWebService/wsdl:
+localhost_8080
+
+./Assignment 7/Signup/client_signup/src/conf/xml-resources/web-service-references/signupWebService/wsdl/localhost_8080:
+assgn_signup
+
+./Assignment 7/Signup/client_signup/src/conf/xml-resources/web-service-references/signupWebService/wsdl/localhost_8080/assgn_signup:
+signupWebService.wsdl
+signupWebService.xsd_1.xsd
+
+./Assignment 7/Signup/client_signup/src/java:
+signupservlet.java
+
+./Assignment 7/Signup/client_signup/web:
+WEB-INF
+index.html
+
+./Assignment 7/Signup/client_signup/web/WEB-INF:
+jax-ws-catalog.xml
+web.xml
+wsdl
+
+./Assignment 7/Signup/client_signup/web/WEB-INF/wsdl:
+localhost_8080
+
+./Assignment 7/Signup/client_signup/web/WEB-INF/wsdl/localhost_8080:
+assgn_signup
+
+./Assignment 7/Signup/client_signup/web/WEB-INF/wsdl/localhost_8080/assgn_signup:
+signupWebService.wsdl
+signupWebService.xsd_1.xsd
